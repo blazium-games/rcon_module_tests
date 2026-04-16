@@ -1,4 +1,5 @@
 .godot/
-secrets.json
-.env
-
+*.log
+.vs/
+.idea/
+tmp/
